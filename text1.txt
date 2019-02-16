@@ -1,2 +1,6 @@
 Hello text 1 - second change here
+<<<<<<< HEAD
 This is a second line in master
+=======
+this line is only on second branch
+>>>>>>> second
