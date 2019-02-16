@@ -1,1 +1,1 @@
-amet consectetur, adipisicing elit. Natus, beatae velit! Porro, voluptas! Sunt id quae cupiditate deserunt perspiciatis beatae nesciunt sit velit odit omnis. Quas facilis recusandae itaque maxime?
+git add .amet consectetur, adipisicing elit. Natus, beatae velit! Porro, voluptas! Sunt id quae cupiditate deserunt perspiciatis beatae nesciunt sit velit odit omnis. Quas facilis recusandae itaque maxime?
